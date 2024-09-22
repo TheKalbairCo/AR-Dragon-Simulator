@@ -12,7 +12,7 @@ This Augmented Reality (AR) experience brings a flying dragon into your room, al
 ## Technologies Used:
 - **Unity**: The project is developed in Unity, utilizing its AR capabilities for seamless integration of the dragon into the real world.
 - **AR Foundation**: Built on AR Foundation to support cross-platform AR development, allowing for smooth image tracking and environmental understanding.
-- **3D Model and Animations**: The dragon is a fully rigged 3D model with detailed animations for lifelike movement, created with [Blender/Maya] and imported into Unity.
+- **3D Model and Animations**: The dragon is a fully rigged 3D model with detailed animations for lifelike movement, created with Blender and imported into Unity.
 - **ARCore/ARKit**: Depending on the platform (Android or iOS), the app leverages ARCore or ARKit to handle real-time image recognition and AR object placement.
   
 ## Technical Details:
@@ -28,5 +28,5 @@ This Augmented Reality (AR) experience brings a flying dragon into your room, al
 
 ## Requirements:
 - Compatible with devices that support ARCore (Android) or ARKit (iOS).
-- Unity version [insert version] or higher for development.
+- Unity version 2022.2 or higher for development.
 
