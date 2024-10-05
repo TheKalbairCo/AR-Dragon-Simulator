@@ -9,8 +9,8 @@ This Augmented Reality (AR) experience brings a flying dragon into your room, al
 - **Immersive AR Environment**: The dragon dynamically interacts with real-world objects, appearing to soar through your physical space.
 - **Realistic Animations**: The dragon features lifelike flying and hovering animations, enhancing the sense of realism.
 
-<img src= "S1.png">
-<img src= "S2.png">
+<img src= "S1.jpg">
+<img src= "S2.jpg">
   
 ## Technologies Used:
 - **Unity**: The project is developed in Unity, utilizing its AR capabilities for seamless integration of the dragon into the real world.
